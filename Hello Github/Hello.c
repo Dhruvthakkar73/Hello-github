@@ -3,7 +3,7 @@
 void main()
 { 
    clrscr();
-   printf("Hello");
+   printf("Hello Dhruv");
    
    getch();
 }  
